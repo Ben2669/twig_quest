@@ -1,0 +1,12 @@
+{
+    "name": "benjamin/quete_twig",
+    "authors": [
+        {
+            "name": "Ben2669",
+            "email": "benjamin.moniotte@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
